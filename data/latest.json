@@ -5,8 +5,8 @@
   "report_url": "https://www.carrgo.co.uk/resources/uk-port-congestion-report/",
   "licence": "CC BY 4.0",
   "licence_url": "https://creativecommons.org/licenses/by/4.0/",
-  "attribution": "Carrgo Freight Solutions, UK & Ireland Port Congestion Dataset, 2026-10-07, https://www.carrgo.co.uk/",
-  "date": "2026-10-07",
+  "attribution": "Carrgo Freight Solutions, UK & Ireland Port Congestion Dataset, 2026-11-03, https://www.carrgo.co.uk/",
+  "date": "2026-11-03",
   "ports_covered": 17,
   "methodology": "health_score is a 0-100 composite of vessels waiting, berth utilisation and average waiting time. Above 75 = normal, 50-74 = moderate, below 50 = congested. score_change_7d and _30d are the movement against the same measure 7 and 30 days earlier.",
   "ports": [
