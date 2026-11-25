@@ -1,0 +1,18 @@
+port,slug,region,country,status,health_score,score_yesterday,score_week_ago,score_month_ago,score_change_7d,score_change_30d,wait_time,vessels_waiting,vessels_at_berth,berth_utilisation_pct,trend,best_score,worst_score,description
+Grangemouth,grangemouth,Scotland,Scotland,Congested,42,45,50,58,-8,-16,4-6 days,6,3,92,Worsening,82,35,Scotland's largest container port
+Dublin,dublin,Ireland,Ireland (ROI),Moderate,58,60,63,68,-5,-10,2-4 days,5,7,88,Worsening,82,40,Ireland's largest port
+Liverpool,liverpool,England,England,Moderate,65,67,70,74,-5,-9,2-3 days,3,4,82,Worsening,88,42,Mersey container port
+Immingham,immingham,England,England,Moderate,68,68,70,72,-2,-4,2-3 days,3,5,75,Stable,85,48,Humber estuary port
+Felixstowe,felixstowe,England,England,Moderate,72,70,68,75,4,-3,2-4 days,4,6,78,Stable,92,45,Major container port — UK's busiest
+Shannon Foynes,shannon-foynes,Ireland,Ireland (ROI),Normal,79,79,78,77,1,2,1-2 days,1,2,55,Stable,86,60,Limerick deepwater port
+Cork,cork,Ireland,Ireland (ROI),Normal,81,81,80,79,1,2,1-2 days,2,3,58,Stable,88,62,Southern Ireland major port
+Belfast,belfast,Northern Ireland,Northern Ireland,Normal,82,82,81,80,1,2,1-2 days,2,4,60,Stable,90,55,Northern Ireland's largest port
+Waterford,waterford,Ireland,Ireland (ROI),Normal,82,82,81,80,1,2,1 day,1,2,50,Stable,88,64,Southeast Ireland port
+Londonderry,londonderry,Northern Ireland,Northern Ireland,Normal,83,83,82,81,1,2,1 day,1,2,52,Stable,89,60,"Foyle Port, Derry"
+Tilbury,tilbury,England,England,Normal,84,82,80,78,4,6,1-2 days,2,4,62,Improving,90,58,Thames river port
+Rosslare Europort,rosslare-europort,Ireland,Ireland (ROI),Normal,84,82,80,78,4,6,1 day,1,2,48,Improving,90,65,Wexford ferry & cargo port
+Southampton,southampton,England,England,Normal,85,85,83,80,2,5,1-2 days,2,5,65,Stable,94,55,Deep-water container port
+Bristol,bristol,England,England,Normal,86,86,85,84,1,2,1 day,1,3,55,Stable,91,65,Avonmouth port
+Larne,larne,Northern Ireland,Northern Ireland,Normal,87,85,84,83,3,4,0-1 days,1,2,50,Improving,92,68,"Larne Harbour, busy ferry port"
+London Gateway,london-gateway,England,England,Normal,88,86,82,78,6,10,1-2 days,1,4,58,Improving,93,60,DP World automated port
+Holyhead,holyhead,Wales,Wales,Normal,90,90,89,88,1,2,0-1 days,0,2,45,Stable,95,70,Irish Sea ferry & cargo port
